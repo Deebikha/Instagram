@@ -24,4 +24,4 @@ This project is a Figma-based UI design of Instagram, including core screens lik
 
 ## Reels Making Page
 
-![Reels Making](screenshot/Reels_making.png)
+![Reels Making](screenshot/Reels_Making.png)
